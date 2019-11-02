@@ -4,4 +4,4 @@ python:
 os:
   - linux
 script:
-  - make test
+  - test_rpn
