@@ -3,7 +3,5 @@ python:
   - 3.5
 os:
   - linux
-install:
-  - pip install .
 script:
-  - test_rpn
+  - make test
